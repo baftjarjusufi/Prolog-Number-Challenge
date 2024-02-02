@@ -23,6 +23,7 @@ And start. And you start the game .
 
 
 ![App Screenshot](https://i.imgur.com/IEHEWUC.png)
+
 ![App Screenshot](https://i.imgur.com/5fRdRy4.png)
 
 
